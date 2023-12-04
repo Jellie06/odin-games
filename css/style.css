@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Merriweather&family=Noto+Serif:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;1,100;1,200;1,300;1,400&display=swap');
+
+:root {
+    --blue-primary: #6bacff;
+    --black-secondary: #201e1e;
+    --blue-tertiary: #00257f;
+    --ff-primary: 'Merriweather', serif;
+    --ff-secondary: 'oto Serif', serif;
+}
+
+body {
+    background-color: var(--blue-primary);
+}
+
+.title {
+    color: var(--black-secondary);
+    font: 40px var(--ff-primary);
+    text-align: center;
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+
+.list {
+    font: 25px var(--ff-secondary);    
+}
+
+.link-1 {
+ list-style: url(/img/th-3806082630.jpg);   
+}
+
+.link-2 {
+    
+}
+
+.link-3 {
+    
+}
+
+.link-4 {
+    
+}
+
+.link-5 {
+    
+}
