@@ -21,25 +21,25 @@ body {
 }
 
 .list {
-    font: 25px var(--ff-secondary);    
+    font: 25px var(--ff-secondary); 
 }
 
 .link-1 {
- list-style: url(/img/th-3806082630.jpg);   
+ list-style: url(/img/icons8-the-legend-of-zelda-skyward-sword-30.png);   
 }
 
 .link-2 {
-    
+ list-style: url(/img/icons8-mushroom-30.png);   
 }
 
 .link-3 {
-    
+    list-style: url(/img/icons8-pokeball-24.png);
 }
 
 .link-4 {
-    
+    list-style: url(/img/metroid-alien.jpg);
 }
 
 .link-5 {
-    
+    list-style: url(/img/icons8-animal-crossing-30.png);
 }
